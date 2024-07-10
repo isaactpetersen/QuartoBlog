@@ -3,6 +3,8 @@
 This is the code that creates the Quarto Blog Template.
 The Quarto Blog Template is located here: **https://isaactpetersen.github.io/QuartoBlog**
 
+For more information on how to customize your blog, see here: https://quarto.org/docs/websites/website-blog.html
+
 # License
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
